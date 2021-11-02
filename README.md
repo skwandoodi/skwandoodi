@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @skwandoodi
 - 👀 I’m interested in devops and cloud achitecture and am new in the IT domain, so i will realy like you to help me 
+- am also intrested in learning Git and Github which is the topic i am doing now in the Devops certification program.
 - 🌱 I’m currently learning Devops certification program and Cloud master achitecture program
 - 💞️ I’m looking to collaborate with you to help me achive my objective in the above programs to become a Devops enginear 
 - 📫 How to reach me to my contact +14058688157
